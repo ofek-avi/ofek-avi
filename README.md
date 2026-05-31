@@ -8,13 +8,17 @@ I build practical software for real operations: internal dashboards, scheduling 
 
 ![Tester Monitor Dashboard](assets/dashboard-overview.png)
 
-Private internal operations platform for monitoring tester availability and operational status. It combines agent heartbeats, real activity signals, calendar context, remote access hints, tester metadata and stable traffic-light rules into one clear view.
+Private internal operations platform for monitoring tester availability, operational status, agent health, calendar context and unit movement.
 
-The public showcase also presents the Data Dashboard and Unit Finder views with masked values, generic labels and sample records so the product can be understood without exposing tester names, IPs, exact counts, internal locations or unit identifiers.
+The project helps operators avoid repeated manual status checks, unnecessary remote-session attempts and unclear tester handoffs. The public showcase presents only masked screenshots and sample data.
 
 ![Tester Monitor Data Dashboard](assets/data-dashboard.png)
 
+![Tester Platform Capabilities](assets/dashboard-capabilities.png)
+
 ![Unit Finder](assets/unit-finder.png)
+
+Estimated impact: **30-90 minutes saved per active workday** for repeated tester checks and handoffs.
 
 Public showcase: [dashboard-showcase](https://github.com/ofek-avi/dashboard-showcase)  
 Source code: private
@@ -23,7 +27,13 @@ Source code: private
 
 ![ShiftPlanner](assets/shiftplanner-dashboard.png)
 
-Local weekly shift-planning system for importing employees and constraints, generating schedules, editing manually, checking coverage, handling holidays and exporting final schedules.
+Private workforce scheduling tool for importing weekly constraints, generating a weekly shift plan, reviewing conflicts, handling holiday rules, balancing rotation and exporting final PDF/Excel outputs.
+
+The public screenshot is fully anonymized: no employee names, no exact staffing numbers and no internal files are shown.
+
+![ShiftPlanner Capabilities](assets/shiftplanner-capabilities.png)
+
+Estimated impact: **2-4 hours saved per weekly schedule cycle** by reducing manual Excel merging, constraint checking, rotation review and final file preparation.
 
 Public showcase: [shiftplanner-showcase](https://github.com/ofek-avi/shiftplanner-showcase)  
 Source code: private
