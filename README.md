@@ -8,9 +8,11 @@ I build practical software for real operations: internal dashboards, scheduling 
 
 ![Tester Monitor Dashboard](assets/dashboard-overview.png)
 
-Internal NVIDIA-style operations dashboard for monitoring tester availability and operational status. It combines agent heartbeats, real activity signals, calendar context, remote access hints, tester metadata and stable traffic-light rules into one clear view.
+Private internal operations platform for monitoring tester availability and operational status. It combines agent heartbeats, real activity signals, calendar context, remote access hints, tester metadata and stable traffic-light rules into one clear view.
 
-I also built a Unit Finder view for tracing units and recent run history without exposing internal identifiers in the public showcase.
+The public showcase also presents the Data Dashboard and Unit Finder views with masked values, generic labels and sample records so the product can be understood without exposing tester names, IPs, exact counts, internal locations or unit identifiers.
+
+![Tester Monitor Data Dashboard](assets/data-dashboard.png)
 
 ![Unit Finder](assets/unit-finder.png)
 
@@ -43,7 +45,7 @@ Source code: private
 
 ## Profile Structure
 
-- Public repositories are showcase pages with images and project explanation.
+- Public repositories are showcase pages with images and project explanations.
 - Work and client/project source code stays private.
 - Screenshots are sanitized before publishing.
 - Older course exercises are no longer part of the public profile focus.
