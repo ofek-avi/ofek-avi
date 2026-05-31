@@ -1,30 +1,32 @@
 # Ofek Saadon
 
-I build practical tools that solve real workflow problems: dashboards, scheduling systems, local web apps, mobile-style PWAs and course assignments.
+I build practical software for real operations: internal dashboards, scheduling systems, automation helpers and mobile-first web experiences.
 
-## Work Projects
+## Featured Projects
 
 ### Tester Monitor Dashboard
 
 ![Tester Monitor Dashboard](assets/dashboard-overview.png)
 
-Internal dashboard for lab tester visibility: traffic-light availability, agent heartbeats, calendar context, remote connection hints, temperature/program details and operational views.
+Internal NVIDIA lab-style dashboard for monitoring tester availability and operational status. It combines agent heartbeats, real activity signals, calendar context, remote access hints, tester metadata and traffic-light status rules into one clear view.
 
-Code access is private. Public view: [dashboard-showcase](https://github.com/ofek-avi/dashboard-showcase)
+Public showcase: [dashboard-showcase](https://github.com/ofek-avi/dashboard-showcase)  
+Source code: private
 
 ### ShiftPlanner
 
 ![ShiftPlanner](assets/shiftplanner-dashboard.png)
 
-Local shift-planning app for weekly scheduling, employee imports, constraints, automatic planning, manual edits, reports and export.
+Local weekly shift-planning system for importing employees and constraints, generating schedules, editing manually, checking coverage, handling holidays and exporting final schedules.
 
-Code access is private. Public view: [shiftplanner-showcase](https://github.com/ofek-avi/shiftplanner-showcase)
+Public showcase: [shiftplanner-showcase](https://github.com/ofek-avi/shiftplanner-showcase)  
+Source code: private
 
-## Personal Projects
+## Website Project
 
 ### Tiki Tak Barber Studio
 
-Mobile-first barber studio website and PWA with booking flow, WhatsApp handoff, gallery, FAQ, admin view and installable app screens.
+Mobile-first Hebrew website and PWA for a barber studio, including booking flow, WhatsApp handoff, gallery, FAQ, app-style screen and admin view.
 
 <p>
   <img src="assets/tikitak-site-mobile.png" width="260" alt="Tiki Tak website mobile view" />
@@ -32,14 +34,19 @@ Mobile-first barber studio website and PWA with booking flow, WhatsApp handoff, 
   <img src="assets/tikitak-admin-mobile.png" width="260" alt="Tiki Tak admin mobile view" />
 </p>
 
-Public view: [tikitak-barber-studio-showcase](https://github.com/ofek-avi/tikitak-barber-studio-showcase)
+Public showcase: [tikitak-barber-studio-showcase](https://github.com/ofek-avi/tikitak-barber-studio-showcase)  
+Source code: private
 
-## Studies
+## Profile Structure
 
-Course work is organized locally by course name:
+- Public repositories are showcase pages with images and project explanation.
+- Work and client/project source code stays private.
+- Older course exercises are no longer part of the public profile focus.
 
-- Object Oriented Programming
-- C Programming
-- General Assignments
+## Focus Areas
 
-Each course folder contains its exercises and assignment repositories.
+- Operations dashboards
+- Scheduling and planning systems
+- Local-first web tools
+- Mobile-first Hebrew websites
+- Workflow automation
