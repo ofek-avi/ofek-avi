@@ -32,6 +32,8 @@ Mobile-first barber studio website and PWA with booking flow, WhatsApp handoff, 
   <img src="assets/tikitak-admin-mobile.png" width="260" alt="Tiki Tak admin mobile view" />
 </p>
 
+Public view: [tikitak-barber-studio-showcase](https://github.com/ofek-avi/tikitak-barber-studio-showcase)
+
 ## Studies
 
 Course work is organized locally by course name:
