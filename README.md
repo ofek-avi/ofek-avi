@@ -8,17 +8,24 @@ I build practical software for real operations: internal dashboards, scheduling 
 
 ![Tester Monitor Dashboard](assets/dashboard-overview.png)
 
-Private internal operations platform for monitoring tester availability, operational status, agent health, calendar context and unit movement.
+Private internal tester operations platform for live status, agent health, stable color logic, data analytics and unit lookup.
 
-The project helps operators avoid repeated manual status checks, unnecessary remote-session attempts and unclear tester handoffs. The public showcase presents only masked screenshots and sample data.
+What I built:
+
+- Live tester availability view across busy, idle, free and offline states.
+- Stable color rules that reduce false busy/free decisions.
+- Windows/Linux agent reporting for heartbeat, activity and machine health.
+- Data Dashboard for retained history, tester usage, operator data and engineer data.
+- Unit Finder for masked unit lookup, recent observations, Golden/ULT review and run history.
+- Protected connection helpers, repair helpers and public-safe documentation.
 
 ![Tester Monitor Data Dashboard](assets/data-dashboard.png)
 
-![Tester Platform Capabilities](assets/dashboard-capabilities.png)
-
 ![Unit Finder](assets/unit-finder.png)
 
-Estimated impact: **30-90 minutes saved per active workday** for repeated tester checks and handoffs.
+![Tester Platform Capabilities](assets/dashboard-capabilities.png)
+
+Estimated impact: **30-90 minutes saved per active workday** for repeated tester checks, handoffs and status verification.
 
 Public showcase: [dashboard-showcase](https://github.com/ofek-avi/dashboard-showcase)  
 Source code: private
@@ -27,13 +34,19 @@ Source code: private
 
 ![ShiftPlanner](assets/shiftplanner-dashboard.png)
 
-Private workforce scheduling tool for importing weekly constraints, generating a weekly shift plan, reviewing conflicts, handling holiday rules, balancing rotation and exporting final PDF/Excel outputs.
+Private workforce scheduling tool for weekly shift planning, constraints, history, review and final PDF/Excel delivery.
 
-The public screenshot is fully anonymized: no employee names, no exact staffing numbers and no internal files are shown.
+What I built:
 
-![ShiftPlanner Capabilities](assets/shiftplanner-capabilities.png)
+- Excel/CSV employee import and weekly constraint import.
+- SharePoint/OneDrive synced-folder refresh for weekly files.
+- Automatic schedule generation with coverage, rest, night-load and weekend rotation rules.
+- Buddy pairing, manual editing, alerts, tracking reports and approval workflow.
+- Holiday handling, history-based rotation, backup/restore and closed app packaging.
 
-Estimated impact: **2-4 hours saved per weekly schedule cycle** by reducing manual Excel merging, constraint checking, rotation review and final file preparation.
+![ShiftPlanner Workflow](assets/shiftplanner-capabilities.png)
+
+Estimated impact: **2-4 hours saved per weekly schedule cycle** by reducing manual Excel merging, constraint checking, rotation review, exception handling and final file preparation.
 
 Public showcase: [shiftplanner-showcase](https://github.com/ofek-avi/shiftplanner-showcase)  
 Source code: private
