@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ofek Saadon portfolio banner</title>
+  <desc id="desc">Professional portfolio banner for operations dashboards, scheduling systems and mobile web apps.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1419"/>
+      <stop offset="0.48" stop-color="#121b1f"/>
+      <stop offset="1" stop-color="#171512"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.055"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="360" rx="0" fill="url(#bg)"/>
+  <rect width="1400" height="360" fill="url(#grid)"/>
+  <rect x="56" y="52" width="1288" height="256" rx="18" fill="#11161b" opacity="0.72" stroke="#2f3942"/>
+  <text x="96" y="122" fill="#f5f7fa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="0">Ofek Saadon</text>
+  <text x="98" y="164" fill="#c8d0d9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0">Operations dashboards | Scheduling systems | Mobile web apps</text>
+  <text x="98" y="211" fill="#95a3af" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="0">Private-code portfolio with sanitized case studies, real product flows and practical workplace impact.</text>
+
+  <g transform="translate(96 246)">
+    <rect width="250" height="44" rx="8" fill="#182218" stroke="#7fb13b"/>
+    <circle cx="25" cy="22" r="7" fill="#7fb13b"/>
+    <text x="44" y="28" fill="#eaf4df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">Tester Monitor</text>
+  </g>
+  <g transform="translate(370 246)">
+    <rect width="250" height="44" rx="8" fill="#16202a" stroke="#4b9ae8"/>
+    <rect x="18" y="15" width="15" height="15" rx="3" fill="#4b9ae8"/>
+    <text x="44" y="28" fill="#e6f1fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">ShiftPlanner</text>
+  </g>
+  <g transform="translate(644 246)">
+    <rect width="250" height="44" rx="8" fill="#231e14" stroke="#c6a85a"/>
+    <path d="M18 28h22v-4H18zm3-9h16v-4H21z" fill="#c6a85a"/>
+    <text x="52" y="28" fill="#f7efd6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">Tiki Tak Studio</text>
+  </g>
+
+  <g transform="translate(985 88)">
+    <rect width="296" height="176" rx="14" fill="#0f1418" stroke="#39444d"/>
+    <text x="26" y="45" fill="#f5f7fa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="0">Portfolio Signals</text>
+    <path d="M27 76h242" stroke="#27313a"/>
+    <circle cx="33" cy="103" r="6" fill="#7fb13b"/><text x="52" y="109" fill="#cbd5df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="0">Real workplace tools</text>
+    <circle cx="33" cy="133" r="6" fill="#4b9ae8"/><text x="52" y="139" fill="#cbd5df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="0">Clean product storytelling</text>
+    <circle cx="33" cy="163" r="6" fill="#c6a85a"/><text x="52" y="169" fill="#cbd5df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="0">Protected private source</text>
+  </g>
+</svg>
